@@ -1,0 +1,11 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "description": "My first server in backend journey.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anas",
+  "license": "ISC"
+}
