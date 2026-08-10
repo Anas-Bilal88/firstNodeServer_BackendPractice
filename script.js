@@ -5,8 +5,7 @@ const server = http.createServer((req, res) => {
 
   console.log(res.statusCode);
   res.end("Hello Anas! That is your 1st Server.");
-  console.log("Learning Git and Node.js");
-  
+  console.log("Learning Git");
 });
 
 server.listen(3000, ()=>{
